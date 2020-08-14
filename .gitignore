@@ -7,4 +7,5 @@ output
 .doit.db*
 site/pages/*.ipynb
 site/listings/*.py
-
+.vscode
+venv
