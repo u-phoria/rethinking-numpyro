@@ -2,3 +2,4 @@ numpyro
 arviz
 causalgraphicalmodels
 daft
+sklearn

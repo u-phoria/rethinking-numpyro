@@ -9,3 +9,4 @@ site/pages/*.ipynb
 site/listings/*.py
 .vscode
 venv
+venv-pyro

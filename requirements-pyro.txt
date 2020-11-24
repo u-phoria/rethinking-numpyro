@@ -1,0 +1,6 @@
+arviz
+causalgraphicalmodels
+daft
+pyro-ppl
+seaborn
+sklearn
